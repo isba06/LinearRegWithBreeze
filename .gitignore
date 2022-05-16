@@ -1,0 +1,8 @@
+*.class
+*.log
+.idea
+.bsp
+target/*
+project/target/*
+# Project exclude paths
+/project/project/target/
